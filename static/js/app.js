@@ -60,14 +60,15 @@ function graphs(id) {
       var bubble_data = [trace1];
       
       var bubble_layout = {
-        title: 'Marker Size and Color',
-        showlegend: false,
-        height: 600,
-        width: 600
-      };
+         title: 'Marker Size and Color',
+         showlegend: false,
+         height: 600,
+         width: 600,
+         title: 'OTU ID'
+       };
       
-      Plotly.newPlot('bubble', bubble_data, bubble_layout);
-      
+       Plotly.newPlot('bubble', bubble_data, bubble_layout);
+
 }
 
 start()
