@@ -1,4 +1,11 @@
+Link to demo:  
+https://nosamkram.github.io/Module_14_belly-button-challenge/
+
+Many thanks to my tutor, Justin for his guidance in this challenge. 
+
+
 # Module_14_belly-button-challenge
+Directions: 
 Complete the following steps:
 
 Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
